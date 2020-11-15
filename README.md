@@ -10,13 +10,11 @@ The latest stable version is: **```1.0.0```**
 
 ## Usage
 
-![External programs]
-(res/cgm-albis-external-tools.png)
+![External programs](res/cgm-albis-external-tools.png)
 
 Create external program in CGM ALBIS with a GDT file with name picimport.gdt below **```C:\CGM\ALBIS\picimport```**. 
 
-![Start program]
-(res/cgm-albis-patientenbild.png)
+![Start program](res/cgm-albis-patientenbild.png)
 
 Start program by call it from external program menu. 
 
