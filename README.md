@@ -1,6 +1,6 @@
 # CGM ALBIS Patientenbild
 
-[![Build Status](https://travis-ci.org/mkk-kamen/cgm-albis-patientenbild.svg?branch=master)](https://travis-ci.org/mkk-kamen/cgm-albis-patientenbild)
+[![Build Status](https://travis-ci.org/mkk-kamen/cgm-albis-patientenbild.svg?branch=main)](https://travis-ci.org/mkk-kamen/cgm-albis-patientenbild)
 [![Coverage Status](https://img.shields.io/coveralls/mkk-kamen/cgm-albis-patientenbild.svg?branch=master)](https://coveralls.io/r/mkk-kamen/cgm-albis-patientenbild?branch=master)
 
 Java program for capturing picture in portrait mode of customers with typical webcam for use in CGM ALBIS.
